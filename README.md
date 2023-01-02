@@ -1,4 +1,4 @@
-# Project 4 - Easy Browser
+# Easy Browser
 
 Right Bar Button that makes easyer and faster going  to your favorite websites 
 
